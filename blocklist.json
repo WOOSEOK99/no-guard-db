@@ -35,8 +35,50 @@
     "무료애니"
   ],
   "safe_rules": {
-  "com.nhn.android.naverdict": ["naver.com", "naverdict", "사전"],
-  "com.kakao.talk": ["kakao.com", "daum.net", "kakaocorp"],
-  "com.naver.android.search": ["naver.com", "naver.me"]
+    "com.nhn.android.nadic": ["naverdict", "사전"],
+    "com.nhn.android.naverdict": ["naverdict"],
+    "com.kakao.talk": [],
+    "com.naver.android.search": [],
+    "com.nhn.android.search": [],
+    
+    /* [노트 및 문서 도구] - 메모하는 척하며 주소 적고 클릭하는 통로 */
+    "com.samsung.android.app.notes": [],
+    "com.nhn.android.memo": [],
+    "com.google.android.keep": [],
+    "com.microsoft.office.outlook": [],
+    "notion.id": [],
+    "com.evernote": [],
+    
+    /* [포털 및 브라우저 변신 가능 앱] */
+    "net.daum.android.daum": ["daum.net", "kakao.com"],
+    "com.google.android.googlequicksearchbox": ["google.com", "google.co.kr"],
+    "com.apple.movetois": [],
+    
+    /* [학습 및 사전] - 허용 도메인 외에는 감시 */
+    "com.naver.labs.translator": ["naver.com", "papago"],
+    "com.classting.app": ["classting.com"],
+    "com.ebs.book": ["ebs.co.kr"],
+    "com.duolingo": [],
+    
+    /* [메신저 및 SNS] - 인앱 브라우저 차단 1순위 */
+    "org.telegram.messenger": [],
+    "com.facebook.katana": [],
+    "com.instagram.android": [],
+    "com.zhiliaoapp.musically": [],
+    "com.discord": [],
+    "com.twitter.android": [],
+    "jp.naver.line.android": [],
+    
+    /* [금융 및 쇼핑] - 이벤트/뉴스 페이지 우회 */
+    "viva.republica.toss": [],
+    "com.kakaobank.channel": [],
+    "com.musinsa.store": [],
+    "com.coupang.mobile": [],
+    "com.marketkurly.android": [],
+    
+    /* [시스템 및 기타] - 설정이나 도움말 우회 */
+    "com.android.settings": [],
+    "com.android.vending": [],
+    "com.sec.android.app.sbrowser": []
   }
 }
