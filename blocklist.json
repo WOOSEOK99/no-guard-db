@@ -50,12 +50,12 @@
     "com.evernote": [],
     
     /* [포털 및 브라우저 변신 가능 앱] */
-    "net.daum.android.daum": ["daum.net", "kakao.com"],
-    "com.google.android.googlequicksearchbox": ["google.com", "google.co.kr"],
+    "net.daum.android.daum": [],
+    "com.google.android.googlequicksearchbox": [],
     "com.apple.movetois": [],
     
     /* [학습 및 사전] - 허용 도메인 외에는 감시 */
-    "com.naver.labs.translator": ["naver.com", "papago"],
+    "com.naver.labs.translator": ["papago"],
     "com.classting.app": ["classting.com"],
     "com.ebs.book": ["ebs.co.kr"],
     "com.duolingo": [],
