@@ -1,13 +1,37 @@
 {
-  "version": 1.2,
+  "version": 1.0,
   "last_updated": "2026-05-11",
-  "urls": [
-    "badsite.com",
-    "illegal-gamble.net"
+  "config": {
+    "blocking_enabled": true,
+    "strict_mode": false
+  },
+  "categories": [
+    {
+      "name": "illegal_gambling",
+      "urls": ["*.777*.com", "*.casin*.net", "totes-*.com", "*.bet*365.com"],
+      "keywords": ["바카라", "홀덤", "파워볼", "사설토토", "슬롯머신"]
+    },
+    {
+      "name": "adult_content",
+      "urls": ["*.pornhub.com", "*.xvideos.com", "*.hentai*.net"],
+      "keywords": ["야동", "망가", "무료성인", "섹스", "av모아"]
+    },
+    {
+      "name": "bypass_tools",
+      "urls": ["*.vpn*.com", "*.proxy*.org", "hide.me", "protonvpn.com"],
+      "keywords": ["vpn우회", "유튜브뚫기", "패밀리링크뚫는법", "프록시", "ip우회"]
+    },
+    {
+      "name": "distraction",
+      "urls": ["*.tiktok.com", "*.dcinside.com", "*.ilbe.com"],
+      "keywords": ["쇼츠", "릴스", "shorts", "reels", "틱톡"]
+    }
   ],
-  "keywords": [
-    "릴스",
-    "쇼츠",
-    "우회방법"
+  "whitelist": [
+    "naver.com",
+    "google.com",
+    "daum.net",
+    "kakaocorp.com",
+    "edu.go.kr"
   ]
 }
