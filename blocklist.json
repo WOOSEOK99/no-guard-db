@@ -33,5 +33,10 @@
     "폰허브",
     "무료웹툰",
     "무료애니"
-  ]
+  ],
+  "safe_rules": {
+  "com.nhn.android.naverdict": ["naver.com", "naverdict", "사전"],
+  "com.kakao.talk": ["kakao.com", "daum.net", "kakaocorp"],
+  "com.naver.android.search": ["naver.com", "naver.me"]
+  }
 }
