@@ -39,44 +39,32 @@
     "com.nhn.android.naverdict": ["naverdict"],
     "com.kakao.talk": [],
     "com.naver.android.search": [],
-    "com.nhn.android.search": [],
-    
-    /* [노트 및 문서 도구] - 메모하는 척하며 주소 적고 클릭하는 통로 */
+    "com.nhn.android.search": [],    
     "com.samsung.android.app.notes": [],
     "com.nhn.android.memo": [],
     "com.google.android.keep": [],
     "com.microsoft.office.outlook": [],
     "notion.id": [],
-    "com.evernote": [],
-    
-    /* [포털 및 브라우저 변신 가능 앱] */
+    "com.evernote": [],    
     "net.daum.android.daum": [],
     "com.google.android.googlequicksearchbox": [],
     "com.apple.movetois": [],
-    
-    /* [학습 및 사전] - 허용 도메인 외에는 감시 */
     "com.naver.labs.translator": ["papago"],
     "com.classting.app": ["classting.com"],
     "com.ebs.book": ["ebs.co.kr"],
     "com.duolingo": [],
-    
-    /* [메신저 및 SNS] - 인앱 브라우저 차단 1순위 */
     "org.telegram.messenger": [],
     "com.facebook.katana": [],
     "com.instagram.android": [],
     "com.zhiliaoapp.musically": [],
     "com.discord": [],
     "com.twitter.android": [],
-    "jp.naver.line.android": [],
-    
-    /* [금융 및 쇼핑] - 이벤트/뉴스 페이지 우회 */
+    "jp.naver.line.android": [],    
     "viva.republica.toss": [],
     "com.kakaobank.channel": [],
     "com.musinsa.store": [],
     "com.coupang.mobile": [],
-    "com.marketkurly.android": [],
-    
-    /* [시스템 및 기타] - 설정이나 도움말 우회 */
+    "com.marketkurly.android": [],    
     "com.android.settings": [],
     "com.android.vending": [],
     "com.sec.android.app.sbrowser": []
