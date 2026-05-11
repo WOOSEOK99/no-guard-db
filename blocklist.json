@@ -1,37 +1,43 @@
 {
-  "version": 1.0,
+  "version": 1.3,
   "last_updated": "2026-05-11",
-  "config": {
-    "blocking_enabled": true,
-    "strict_mode": false
-  },
-  "categories": [
-    {
-      "name": "illegal_gambling",
-      "urls": ["*.777*.com", "*.casin*.net", "totes-*.com", "*.bet*365.com"],
-      "keywords": ["바카라", "홀덤", "파워볼", "사설토토", "슬롯머신"]
-    },
-    {
-      "name": "adult_content",
-      "urls": ["*.pornhub.com", "*.xvideos.com", "*.hentai*.net"],
-      "keywords": ["야동", "망가", "무료성인", "섹스", "av모아"]
-    },
-    {
-      "name": "bypass_tools",
-      "urls": ["*.vpn*.com", "*.proxy*.org", "hide.me", "protonvpn.com"],
-      "keywords": ["vpn우회", "유튜브뚫기", "패밀리링크뚫는법", "프록시", "ip우회"]
-    },
-    {
-      "name": "distraction",
-      "urls": ["*.tiktok.com", "*.dcinside.com", "*.ilbe.com"],
-      "keywords": ["쇼츠", "릴스", "shorts", "reels", "틱톡"]
-    }
+  "urls": [
+    "badsite.com",
+    "illegal-gamble.net",
+    "tiktok.com",
+    "newtoki.com",
+    "manatoki.net",
+    "nunu.tv",
+    "linkmoa.net",
+    "avmoa.org",
+    "yamoa.me",
+    "toto-zone.com",
+    "bit.ly",
+    "t.me",
+    "vpngate.net",
+    "kproxy.com",
+    "discord.com/channels/@me"
   ],
-  "whitelist": [
-    "naver.com",
-    "google.com",
-    "daum.net",
-    "kakaocorp.com",
-    "edu.go.kr"
+  "keywords": [
+    "릴스",
+    "쇼츠",
+    "shorts",
+    "reels",
+    "우회방법",
+    "vpn 우회",
+    "패밀리링크 뚫는법",
+    "유닝킹",
+    "꽁머니",
+    "사설토토",
+    "검증사이트",
+    "안전놀이터",
+    "야동",
+    "망가",
+    "AV모아",
+    "무료성인",
+    "무료웹툰",
+    "무료애니",
+    "폰허브",
+    "엑스비디오"
   ]
 }
